@@ -1,0 +1,13 @@
+{
+  "name": "@devhub/ui",
+  "version": "1.0.0",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "dependencies": {
+    "tailwindcss": "^3.4.4",
+    "lucide-react": "^0.378.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
