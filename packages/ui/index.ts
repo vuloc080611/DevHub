@@ -1,2 +1,4 @@
 export { Button } from "./button";
-// more components later
+export { Card } from "./card";
+export { Input } from "./input";
+export { Modal } from "./modal";
