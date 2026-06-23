@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/devhub/main/apps/web/public/logo.svg" alt="DevHub logo" width="120" />
+  <img src="https://raw.githubusercontent.com/vuloc080611/devhub/main/apps/web/public/logo.svg" alt="DevHub logo" width="120" />
 </p>
 
 <h1 align="center">🧠 DevHub</h1>
