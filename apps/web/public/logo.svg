@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Background hexagon -->
+  <polygon points="60,5 110,30 110,90 60,115 10,90 10,30" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
+  <!-- Brain / chip icon inside -->
+  <path d="M45 55C45 50 50 45 55 45H65C70 45 75 50 75 55V65C75 70 70 75 65 75H55C50 75 45 70 45 65Z" fill="white" stroke="white" stroke-width="2"/>
+  <path d="M40 50H35M40 70H35M80 50H85M80 70H85" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="55" r="3" fill="#3b82f6"/>
+  <circle cx="70" cy="65" r="3" fill="#3b82f6"/>
+  <path d="M55 60H65" stroke="#3b82f6" stroke-width="2"/>
+  <!-- Text "DevHub" below if wanted, but not necessary -->
+</svg>
