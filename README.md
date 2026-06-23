@@ -7,9 +7,9 @@
 <p align="center"><strong>The All‑in‑One Developer Workspace – Open Source & Self‑Hosted</strong></p>
 
 <p align="center">
-  <a href="https://github.com/your-username/devhub/stargazers"><img src="https://img.shields.io/github/stars/your-username/devhub?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/your-username/devhub/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/devhub" alt="License MIT"></a>
-  <a href="https://twitter.com/intent/tweet?text=DevHub%20-%20the%20open%20source%20all-in-one%20workspace%20for%20developers&url=https://github.com/your-username/devhub"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fdevhub" alt="Tweet"></a>
+  <a href="https://github.com/vuloc080611/devhub/stargazers"><img src="https://img.shields.io/github/stars/vuloc080611/devhub?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/vuloc080611/devhub/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vuloc080611/devhub" alt="License MIT"></a>
+  <a href="https://twitter.com/intent/tweet?text=DevHub%20-%20the%20open%20source%20all-in-one%20workspace%20for%20developers&url=https://github.com/vuloc080611/devhub"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fdevhub" alt="Tweet"></a>
 </p>
 
 <p align="center">
